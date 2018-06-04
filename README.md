@@ -1,2 +1,0 @@
-# CGS
-Contextual Geometric Structures
